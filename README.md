@@ -34,7 +34,7 @@ El programa está dividido en tres clases:
 ## Clonar el repositorio
 
 ```bash
-git clone URL_DEL_REPOSITORIO
+git clone https://github.com/camidelangel/metodo-Euler-.git
 ```
 
 Entrar en la carpeta del proyecto:
